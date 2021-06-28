@@ -1,2 +1,3 @@
 # hello-world
-Repo for CodeDay Onboarding
+
+Hi this is to help me refresh my memory on Git!
